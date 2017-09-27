@@ -1,11 +1,10 @@
 /**
  * 
  * @authors Your Name (you@example.org)
- * @date    2017-09-02 19:26:44
+ * @date    2017-09-04 11:04:58
  * @version $Id$
  */
-
 function haha(){
-	alert('This is a');
+	alert('This is b');
 }
 haha()
